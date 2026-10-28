@@ -5,7 +5,7 @@ tools. Today it holds one thing: the **Hexward Finding Schema (HFS)** and the
 sinks that deliver it to the systems you already run.
 
 Every Hexward product (RuleHawk, Loglight, CertLight, Decoy, DmarcWatch,
-Patchlight, TenantWatch, Attack Surface Monitor) emits the same event for
+Patchlight, TenantWatch, Attack Surface Monitor, AuditLight, TopoLight) emits the same event for
 every finding it opens or resolves. Write a Wazuh rule, a Splunk search or an
 Elastic query once, and it works for all of them.
 
