@@ -1,0 +1,1 @@
+{"schema":"hexward.finding/1","event":"opened","ts":"2026-10-28T09:12:44Z","product":"certlight","finding":{"fingerprint":"aa","check":"tls.expiry","title":"Certificate expires in 9 days","target":"example.com:443","severity":"medium","severity_num":5,"status":"open"}}
