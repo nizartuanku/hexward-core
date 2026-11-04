@@ -51,4 +51,4 @@ err := s.Send(ctx, []hfs.Event{ev})
 
 ## License
 
-Apache-2.0. © Nizar Tuanku — Cybersecurity.
+Apache-2.0. © Nizar Tuanku — Cybersecurity Tools + AI.
