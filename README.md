@@ -49,6 +49,10 @@ err := s.Send(ctx, []hfs.Event{ev})
   vectors are in [`hfs/testdata`](hfs/testdata).
 - No third-party dependencies.
 
+## Hexward products
+
+The Hexward tools built on this library (RuleHawk, Loglight, CertLight, Patchlight and more) are on [GitHub](https://github.com/nizartuanku). Pro and Team licences are on [Whop](https://whop.com/nizar-tuanku/?utm_source=github&utm_medium=readme&utm_campaign=hexward-core).
+
 ## License
 
 Apache-2.0. © Nizar Tuanku — Cybersecurity Tools + AI.
